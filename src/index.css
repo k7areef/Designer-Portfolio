@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+  width: 100%;
+  max-width: 80rem;
+}
+
+@theme {
+  /* Purple Shades */
+  --color-purple-50: #5700ff;
+  --color-purple-60: #7833ff;
+  --color-purple-70: #9a66ff;
+  --color-purple-80: #bc99ff;
+  --color-purple-90: #decffc;
+  --color-purple-95: #eee5ff;
+  --color-purple-97: #f5f0ff;
+  --color-purple-99: #fcfaff;
+  /* Soft Peach Shades */
+  --color-soft-peach-85: #e1dbd1;
+  --color-soft-peach-90: #ebe7e0;
+  --color-soft-peach-92: #eeebe5;
+  --color-soft-peach-95: #f5f3f0;
+  --color-soft-peach-96: #f7f6f3;
+  --color-soft-peach-97: #f9f8f6;
+  --color-soft-peach-98: #fbfaf9;
+  --color-soft-peach-99: #fdfdfc;
+  /* Grey Shades */
+  --color-grey-10: #191919;
+  --color-grey-20: #333333;
+  --color-grey-30: #4c4c4c;
+  --color-grey-40: #666666;
+  --color-grey-50: #808080;
+  --color-grey-60: #999999;
+  --color-grey-70: #b3b3b3;
+  --color-grey-80: #cccccc;
+  /* Supporting Colors */
+  --color-purple: #9e00ff;
+  --color-green: #5edc11;
+  --color-yellow: #ffce22;
+  --color-orange: #ff7222;
+  --color-pink: #ff22e9;
+  --color-blue: #2260ff;
+}
+
+/* Global */
+html,
+body {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+p {
+  font-size: 14px;
+  color: var(--color-grey-20);
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1024px) {
+  p {
+    font-size: 18px;
+  }
+}

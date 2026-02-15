@@ -1,0 +1,31 @@
+{
+    "title": "Frequently Asked Questions",
+    "description": "Here are answers to some common questions",
+    "faqs": [
+        {
+            "id": 1,
+            "question": "Can you work with clients remotely?",
+            "answer": "Absolutely! I have experience working with clients from all around the world. Through effective communication channels such as email, video calls, and project management tools, I ensure seamless collaboration regardless of geographical location."
+        },
+        {
+            "id": 2,
+            "question": "How long does it typically take to complete a web design project?",
+            "answer": "Absolutely! I have experience working with clients from all around the world. Through effective communication channels such as email, video calls, and project management tools, I ensure seamless collaboration regardless of geographical location."
+        },
+        {
+            "id": 3,
+            "question": "Do you offer website maintenance services?",
+            "answer": "Absolutely! I have experience working with clients from all around the world. Through effective communication channels such as email, video calls, and project management tools, I ensure seamless collaboration regardless of geographical location."
+        },
+        {
+            "id": 4,
+            "question": "Can you optimize my website for search engines?",
+            "answer": "Absolutely! I have experience working with clients from all around the world. Through effective communication channels such as email, video calls, and project management tools, I ensure seamless collaboration regardless of geographical location."
+        },
+        {
+            "id": 5,
+            "question": "Can you integrate third-party tools or platforms into my website?",
+            "answer": "Absolutely! I have experience working with clients from all around the world. Through effective communication channels such as email, video calls, and project management tools, I ensure seamless collaboration regardless of geographical location."
+        }
+    ]
+}

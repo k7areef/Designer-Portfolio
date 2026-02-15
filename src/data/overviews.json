@@ -1,0 +1,38 @@
+{
+    "works": {
+        "title": "My Creative Portfolios",
+        "description": "Here's what some of my satisfied clients have to say about my work",
+        "items": [
+            {
+                "id": 1,
+                "name": "55+ Completed Projects"
+            },
+            {
+                "id": 2,
+                "name": "20+ Happy Customers"
+            },
+            {
+                "id": 3,
+                "name": "08+ Years of Experience"
+            }
+        ]
+    },
+    "contact": {
+        "title": "We’d love to here from you.",
+        "description": "Here's what some of my satisfied clients have to say about my work",
+        "items": [
+            {
+                "id": 1,
+                "name": "24 / 7 Assistance"
+            },
+            {
+                "id": 2,
+                "name": "Quick Change Resolutions"
+            },
+            {
+                "id": 3,
+                "name": "Flexible Working hours"
+            }
+        ]
+    }
+}
